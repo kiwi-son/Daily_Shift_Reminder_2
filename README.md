@@ -50,7 +50,7 @@ Sends emails to all assigned employees.
 ├── requirements.txt   # Dependencies
 ⚙️ Setup Instructions
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/daily-shift-reminder.git
+git clone https://github.com/kiwi-son/Daily-Shift-Reminder_2.git
 cd daily-shift-reminder
 2️⃣ Install Dependencies
 pip install -r requirements.txt
